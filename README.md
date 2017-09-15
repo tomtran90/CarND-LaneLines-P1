@@ -1,7 +1,8 @@
 # **Udacity Self-Driving Car Nanodegree - Finding Lane Lines on the Road** 
 ---
 
-### The P1.ipynb notebook implements the pipeline which includes the following functions:
+### About this project
+The P1.ipynb notebook implements the pipeline which includes the following functions:
 * **grayscale** turns images into grayscale
 * **gaussian_blur** applies Gaussian blur to gray images
 * **canny** applies edge detection using Canny transformation
