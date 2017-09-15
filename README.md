@@ -9,6 +9,8 @@
 * **hough_lines** applies Hough transformation to find lines on the masked iamge
 * **weighted_img** combines the Hough lines and the original images to create annotated images
 
-### Potential shortcomings can be found by applying it to the 'challenge.mp4' video. The noise in the video and the curves of the road are not handled well by the process.
+### Potential shortcomings
+Potential shortcomings can be found by applying it to the 'challenge.mp4' video. The noise in the video and the curves of the road are not handled well by the process.
 
-### Possible improvements include quadratic fit to annotate the lines with curves. 
+### Possible improvements 
+Possible improvements include quadratic fit to annotate the lines with curves. 
